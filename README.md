@@ -1,0 +1,1 @@
+# sa-sdk-sns-app-test-contents
